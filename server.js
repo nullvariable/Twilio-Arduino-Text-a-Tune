@@ -8,7 +8,7 @@ var express = require('express');
 var util = require("util");
 
 /*
- * config file similar to this:
+  config file similar to this:
   exports.twilio = function (t) {
 	switch(t)
 	{
